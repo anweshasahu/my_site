@@ -1,0 +1,139 @@
+a {
+  color: #7a2121;
+  text-decoration: none;
+  font-size: x-large;
+  margin-right: 15%
+}
+
+.about {
+  background-color: white;
+  color: #45b29a;
+}
+
+#aboutimg {
+  height: 150px;
+  margin-left: 45%;
+  border-radius: 50%;
+  border: solid white;
+  border-width: 5px;
+}
+
+body {
+  margin: 0;
+}
+
+#cloud1 {
+  margin-left: 15%;
+}
+
+#cloud2 {
+  margin-left: 0px;
+  margin-right: 300px;
+  margin-top: 8px;
+}
+
+#cloud3 {
+  margin-left: 80%;
+  height: 20%;
+}
+
+.contact {
+  /* justify-content: center; */
+  /* align-self: center; */
+  border-radius: 9%;
+  margin-top: 4%;
+}
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  font-family: brandon-grotesque;
+  text-align: center;
+  color: #45b29a;
+}
+
+.helloArticle p {
+  text-align: center;
+  width: 65%;
+  font-size: 1.5em;
+  margin-left: 20%;
+  color: #7a2121;
+  font-weight: 300;
+  color:
+}
+
+#namelogo {
+  margin-left: 37%
+}
+
+.navelements {
+  float: right;
+  margin-top: 3%;
+}
+
+.intro {
+  background-color: #CEE5D0;
+  color: #7a2121;
+  font-size: 30px;
+}
+
+.home-head {
+  background-color: #CEE5D0;
+  height: 360px;
+}
+
+.landimage {
+  margin-left: 25%
+}
+
+.workDescription {
+  text-align: center;
+  width: 65%;
+  font-size: 1.5em;
+  margin-left: 18%;
+  color: #7a2121;
+  font-weight: 300;
+}
+
+.playbutton {
+  color: #45b29a;
+  margin-left: 48%;
+  align-items: center;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.profile_img {
+  background-color: white;
+  height: 30%
+}
+
+#profile_img {
+  margin-top: 2%;
+  margin-left: 2%;
+  height: 40%;
+  border-radius: 50%;
+  border: solid white;
+  border-width: 5px;
+}
+
+#subintro {
+  margin-left: 45%;
+}
+
+/* .two{
+  background-color: #94B3FD;
+    height: 350px;
+}
+.three{
+  background-color: #94DAFF;
+  height: 350px;
+} */
+.work {
+  margin-top: 3%;
+  margin-left: 46%;
+  height: 100px;
+}
